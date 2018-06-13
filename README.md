@@ -9,7 +9,7 @@ $ composer require tintran/image_checker
 
 ## Usage
 
-Detact image format from local path or online sources.
+Detacting an image format from local path or online sources.
 
 Instantiate a new instance:
 ```php
